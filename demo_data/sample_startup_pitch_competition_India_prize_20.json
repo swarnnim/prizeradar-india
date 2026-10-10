@@ -1,0 +1,16 @@
+{
+  "_note": "SAMPLE FIXTURE for --demo mode. Not live SerpApi data. Live mode returns the same schema from serpapi.com/search.json.",
+  "search_metadata": {
+    "engine": "google",
+    "q": "startup pitch competition India prize 2026",
+    "status": "Sample"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "National Startup Awards 2026 — DPIIT",
+      "link": "https://www.startupindia.gov.in",
+      "snippet": "Recognising outstanding startups. Winners receive cash prize of ₹5 lakh and national recognition."
+    }
+  ]
+}

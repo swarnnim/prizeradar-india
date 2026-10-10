@@ -1,0 +1,22 @@
+{
+  "_note": "SAMPLE FIXTURE for --demo mode. Not live SerpApi data. Live mode returns the same schema from serpapi.com/search.json.",
+  "search_metadata": {
+    "engine": "google",
+    "q": "coding contest India students prize money 2026",
+    "status": "Sample"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "TCS CodeVita Season 14 — registrations open",
+      "link": "https://www.tcscodevita.com",
+      "snippet": "Global coding contest for students. Registrations open till Nov 13. Top coders win cash prizes up to $10,000 and TCS interviews."
+    },
+    {
+      "position": 2,
+      "title": "HackerRank university rankings challenge",
+      "link": "https://www.hackerrank.com",
+      "snippet": "Weekly coding challenges with cash prizes. Open worldwide, free entry."
+    }
+  ]
+}

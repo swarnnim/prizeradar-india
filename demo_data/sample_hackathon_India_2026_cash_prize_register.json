@@ -1,0 +1,28 @@
+{
+  "_note": "SAMPLE FIXTURE for --demo mode. Not live SerpApi data. Live mode returns the same schema from serpapi.com/search.json.",
+  "search_metadata": {
+    "engine": "google",
+    "q": "hackathon India 2026 cash prize register online",
+    "status": "Sample"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "SerpApi India Hackathon 2026 — ₹3L+ prizes",
+      "link": "https://serpapi.github.io/serpapi-india-hackathon-2026/",
+      "snippet": "Build an app, AI agent, or open-source integration with live search data from SerpApi. 1st ₹1,00,000, 2nd ₹40,000, 3rd ₹20,000. Submit by October 10, 2026 at 23:59 IST. Open to India residents 18+."
+    },
+    {
+      "position": 2,
+      "title": "Environmental Hacks — Bharat Builds Tour | WeMakeDevs",
+      "link": "https://www.wemakedevs.org/aws/env",
+      "snippet": "Six-city hackathon tour with a prize pool across events. Build and submit your project online. Submissions close Oct 11."
+    },
+    {
+      "position": 3,
+      "title": "Hacktoberfest 2026 — Week 1 challenge",
+      "link": "https://hacktoberfest.com",
+      "snippet": "Contribute to open source, earn swags and goodies. Week 1 'Touch Grass' challenge closes Oct 11."
+    }
+  ]
+}
